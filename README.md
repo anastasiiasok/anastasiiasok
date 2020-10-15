@@ -3,7 +3,7 @@
 
 💻 I am a full stack developer with passionate about coding, developing web applications.
 
-• JavaScript (ES6) / TypeScript
+• JavaScript / TypeScript
 • HTML 5
 • CSS/SCSS
 • ReactJS & Redux
