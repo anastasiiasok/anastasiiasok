@@ -3,7 +3,7 @@
 
 💻 I am a full stack developer with passionate about coding, developing web applications.
 ![alt text]()
-My Tech Stack &fontSize=200
+### My Tech Stack &fontSize=200
 
 • JavaScript / TypeScript
 • HTML 5
