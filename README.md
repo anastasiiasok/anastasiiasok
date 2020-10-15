@@ -3,6 +3,8 @@
 
 💻 I am a full stack developer with passionate about coding, developing web applications.
 
+My Tech Stack
+
 • JavaScript / TypeScript
 • HTML 5
 • CSS/SCSS
