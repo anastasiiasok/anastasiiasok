@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### 💻 My name is Anastasiia and I am a fullstack software engineer.
+### 💻 My name is Anastasiia 👩🏻‍ and I am a fullstack software engineer.
 
 ### My Tech Stack:
 • JavaScript / TypeScript
