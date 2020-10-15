@@ -2,7 +2,7 @@
 
 
 💻 I am a full stack developer with passionate about coding, developing web applications.
-![alt text](http://url/to/vectorstock.com/i/1000x1000/96/96/woman-and-laptop-computer-icon-vector-17139696.jpg)
+![alt text](https://cdn2.vectorstock.com/i/1000x1000/96/96/woman-and-laptop-computer-icon-vector-17139696.jpg)
 My Tech Stack
 
 • JavaScript / TypeScript
