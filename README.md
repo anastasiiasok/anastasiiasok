@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**anastasiiasok/anastasiiasok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 I am a full stack developer with passionate about coding, developing web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• JavaScript (ES6) / TypeScript
+• HTML 5
+• CSS/SCSS
+• ReactJS & Redux
+• Node.js / Express.js
+• Responsive web
+• Bootstrap
+• Storybook
+• MongoDB
+
+
+Strong desire to learn and grow in the career. Open to volunteer as a fullstack software engineer .
+
+📫 How to reach me: Please feel free to contact me via email anastasiia.soktoeva@gmail.com 
+
+
