@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?color=auto)
 
 💻 I am a full stack developer with passionate about coding, developing web applications.
 ![alt text]()
-### My Tech Stack &fontSize=200
+### My Tech Stack 
 
 • JavaScript / TypeScript
 • HTML 5
