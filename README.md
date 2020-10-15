@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+### 💻 My name is Anastasiia and I am a fullstack software engineer.
 
-💻 I am a full stack developer with passionate about coding, developing web applications.
-### My Tech Stack 
-
+### My Tech Stack:
 • JavaScript / TypeScript
 • HTML 5
 • CSS/SCSS
@@ -14,8 +13,8 @@
 • MongoDB
 
 
-Strong desire to learn and grow in the career. Open to volunteer as a fullstack software engineer .
+ 💻 Strong desire to learn and grow in the career. Open to volunteer as a fullstack software engineer .
 
-📫 How to reach me: Please feel free to contact me via email anastasiia.soktoeva@gmail.com 
+ 📫 How to reach me: Please feel free to contact me via email anastasiia.soktoeva@gmail.com 
 
 
