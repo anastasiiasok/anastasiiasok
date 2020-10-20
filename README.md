@@ -20,9 +20,7 @@
 
 
 
- 💻 Strong desire to learn and grow in the career. Open to volunteer as a fullstack software engineer .
 
- 📫 How to reach me: Please feel free to contact me via email anastasiia.soktoeva@gmail.com 
 
 
 
