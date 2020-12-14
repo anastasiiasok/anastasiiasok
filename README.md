@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="https://https://img.shields.io/badge/-MongoDB-green-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"  />
+  <img src="https://https://img.shields.io/badge/-MongoDBstyle=flat-square&logo=gnu-bash&logoColor=white"  />
 </div>
 
 
