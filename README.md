@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/-Redux-764abc?&style=flat-square&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-FFFFFF?&style=flat-square&logo=HTML5&logoColor=White" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?&style=flat-square&logo=css3&logoColor=White" />
+    <img src=
+"https://img.shields.io/badge/-MongoDB-green"
+ />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?&style=flat-square&logo=Bootstrap&logoColor=White" />
@@ -36,14 +39,6 @@
   <img src="https://img.shields.io/badge/-git-F05033?&style=flat-square&logo=git&logoColor=white"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Jasmine-8A4182?&style=flat-square&logo=jasmine&logoColor=White" />
-</div>
-
-
-<div align="center">
-  <img src="https://https://img.shields.io/badge/-MongoDB-4EAA25?&style=flat-square&logo=gnu-bash&logoColor=white"  />
-</div>
 
 
 
