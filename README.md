@@ -1,7 +1,7 @@
  
 
 ### <div align="center">
- ### <p>Hi there 👋  My name is Anastasiia 👩🏻‍. I am a fullstack software engineer</p>
+<p>Hi there 👋  My name is Anastasiia 👩🏻‍. I am a fullstack software engineer</p>
   <p>📍 Jersey City, NJ </p>
   <p> 💻 Fast learner, team player, but also independent</p>
   <p> </p>
