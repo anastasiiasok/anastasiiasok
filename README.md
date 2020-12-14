@@ -3,7 +3,7 @@
 <div align="center">
 <strong> <p>Hi there 👋  My name is Anastasiia 👩🏻‍. I am a fullstack software engineer</p> </strong>
  <img src="https://img.shields.io/badge/-LinkedIn-blue" /> https://www.linkedin.com/in/anastasiia-soktoeva-313199144/
- <br>
+ <div></div>
  <strong> <p>📍 Jersey City, NJ </p> </strong>
  <strong><p> 💻 Fast learner, team player, but also independent</p></strong>
   <p> </p>
