@@ -33,7 +33,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Webpack-2b3a42?&style=flat-square&logo=webpack&logoColor=White" />
-  <img src="https://img.shields.io/badge/-Expo-000020?&style=flat-square&logo=expo&logoColor=White" />
   <img src="https://img.shields.io/badge/-Heroku-79589F?&style=flat-square&logo=Heroku&logoColor=White" />
   <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/-git-F05033?&style=flat-square&logo=git&logoColor=white"/>
