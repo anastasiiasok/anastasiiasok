@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Redux-764abc?&style=flat-square&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-FFFFFF?&style=flat-square&logo=HTML5&logoColor=White" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?&style=flat-square&logo=css3&logoColor=White" />
+   <img src="https://img.shields.io/badge/-Firebase-EF982C?&style=flat-square&logo=Firebase&logoColor=White"/>
     <img src=
 "https://img.shields.io/badge/-MongoDB-green"
  />
