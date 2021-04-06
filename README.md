@@ -7,6 +7,4 @@
   <p> </p>
 </div>
 
-<div align="center">
-  <h3>My Tech Stack</h3>
-</div>
+
